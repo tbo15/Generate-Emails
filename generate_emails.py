@@ -26,7 +26,7 @@ myName = input("Enter your name (for signing the emails): ")
 
 gen("grivera@nysenate.gov", "Gustavo Rivera", myName)
 gen("bbenjamin@nysenate.gov", "Brian Benjamin", myName)
-gen("biaggi@nysenate.gov", "Alessandra Biagg", myName)
+gen("biaggi@nysenate.gov", "Alessandra Biaggi", myName)
 gen("carlucci@nysenate.gov", "David Carlucci", myName)
 gen("gallivan@nysenate.gov ", "Patric Gallivan", myName)
 gen("hoylman@nysenate.gov", "Brad Hoylman", myName)
